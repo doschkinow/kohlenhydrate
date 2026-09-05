@@ -44,9 +44,5 @@ USDA_API_KEY="..."
 ```
 - If you plan to reproduce results, pin package versions in a `requirements.txt` file.
 
-**Contributing**
-- Feel free to open issues or pull requests to add features, examples, or dependency files.
-
-**License & Contact**
-- Add a license file if you want to specify reuse terms.
-- For questions, open an issue in this repository.
+**License**
+- no license file for now :)
